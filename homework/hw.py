@@ -1,0 +1,7 @@
+print('*' * 20)
+print('*' + ' ' * 18 + '*')
+print('*' + '   ' + 'Hello World!' + '   ' + '*')
+print('*' + ' ' * 18 + '*')
+print('*' * 20)
+print()
+print('Goodbye World ):')
